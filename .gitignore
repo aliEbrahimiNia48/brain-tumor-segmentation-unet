@@ -1,0 +1,9 @@
+data/
+runs/
+*.tar
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+.venv/
+test.ipynb
